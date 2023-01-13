@@ -1,11 +1,7 @@
-# webhost
+# baydre africa
 
-Hello, This is Musa, Yasir. I am trying to host a website on GitHub Page.
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Hello, I'm Yasir. Welcome to my GitHub Page.
+I am interested in learning and developing digital technologies prototypes.
 
  
 Courtesy: iSTEMLabs.Africa

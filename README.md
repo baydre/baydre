@@ -1,8 +1,13 @@
 # baydre
 
-**Technologist & Software Engineer** exploring **AI, IoT, robotics, and software systems**.
+Hi, I’m Yasir — a **Technologist and Software Engineer** who enjoys building practical solutions to real-world problems.
 
-I enjoy learning, solving problems, and turning ideas into practical prototypes.
+I’m interested in **software, AI, IoT, robotics, and systems engineering**, with a focus on learning, problem-solving, and turning ideas into working products and prototypes.
 
-*Courtesy: iSTEMLabs.Africa*
+I enjoy exploring how technology works across both software and hardware, and building things along the way.
 
+---
+
+*Building, learning, and experimenting with technology.*
+
+Courtesy: [iSTEMLabs.Africa](https://istemlabs.africa)   

@@ -1,8 +1,8 @@
 # baydre
 
-- Hello, I'm Yasir. Welcome to my GitHub Page.
-- I am interested in Learning, Problem-solving, Robotics & AI and Developing Digital Technological Prototypes.
+**Technologist & Software Engineer** exploring **AI, IoT, robotics, and software systems**.
 
- 
-Courtesy: [iSTEMLabs.Africa](https://istemlabs.africa/)
+I enjoy learning, solving problems, and turning ideas into practical prototypes.
+
+*Courtesy: iSTEMLabs.Africa*
 
